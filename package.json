@@ -1,0 +1,13 @@
+{
+  "name": "vue-forceupdate-computed",
+  "version": "0.0.1",
+  "autohor": "nagyzsolthun",
+  "scripts": { "build": "node node_modules/webpack/bin/webpack.js" },
+  "dependencies": {
+    "webpack": "latest",
+    "html-webpack-plugin": "latest",
+    "vue": "latest",
+    "vue-loader": "latest",
+    "vue-template-compiler": "latest"
+  }
+}
